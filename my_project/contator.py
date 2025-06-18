@@ -7,3 +7,4 @@ class Contador:
     
     def resetar(self):
         self.valor = 0
+        
